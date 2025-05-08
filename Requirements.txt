@@ -1,2 +1,5 @@
-Requirements.txt
-csdc,xzcnb
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
